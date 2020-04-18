@@ -8,7 +8,7 @@ You'll need
 2. A text file containing the lyrics (*must have an empty line at start and end of the file*)
 
 ## To generate the plot
-1. Open the R script, `01_self_sim_matrix` and add the artist and song name, e.g., "Artist - Song"
+1. Open the R script, `01_self_sim_plot` and add the artist and song name, e.g., "Artist - Song"
 2. Choose the appropriate text file with the lyrics you want to plot when prompted at the start of the R script. 
 3. Run the rest of the script. The plot will be placed into the same directory as the R script. 
 
