@@ -1,6 +1,8 @@
 # Self-Similarity plots using song lyrics
 This project creates self-similarity plots (also known as "recurrence plots") from song lyrics. I'm using R to replicate Colin Morris' work at [SongSim](https://colinmorris.github.io/SongSim/#/about) which was featured on Vox's "Earworm" series, episode 5, titled: ["Why we really really really like repetition in music"](https://www.youtube.com/watch?v=HzzmqUoQobc). 
 
+The plots essentially show any time a word is repeated in the song. The plot has the lyrics of the song on the x- and y-axes and is filled-in if the two words are the same and blank if not. I recommend looking at the SongSim page above to get an idea of what the plots show. 
+
 ## Before running the file
 
 You'll need
