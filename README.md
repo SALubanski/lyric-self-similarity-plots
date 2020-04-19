@@ -19,4 +19,5 @@ You'll need
 3. Run the rest of the script. The plot will be placed into the same directory as the R script. 
 
 ## For example, here is a self-similarity plot using Daft Punk's "Harder, Better, Faster, Stronger":
+ - the plot starts in the top-left and moves diagonally to the bottom-right.
 ![Caption](figs/daft_punk_-_harder,_better,_faster,_stronger_self-sim_plot.png)
