@@ -162,7 +162,6 @@ lyrics <- readLines(file.choose(), encoding = 'UTF-8')
 # ::: Enter the artist and name of song :::
 # this will be used to title plot & figure
 artist.song <- 'Unknown - Happy Birthday'
-artist.song <- 'Blink 182 - Down'
 
 # ::: Drop empty lines & check lyrics ::::
 (lyrics <- lyrics[which(lyrics != '')]) 
