@@ -11,7 +11,7 @@ Finally, because I took two years to post this publicly (lol), someone else has 
 
 You'll need
 1. R, with the "here" package installed
-2. A text file containing the lyrics (*must have an empty line at start and end of the file*)
+2. A text file containing the lyrics
 
 ## To generate the plot
 1. Open the R script, `01_self_sim_plot` and add the artist and song name, e.g., "Artist - Song"
